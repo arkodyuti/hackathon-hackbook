@@ -1,6 +1,7 @@
 # hackathon-cheatbook
-> Hackathon Cheatbook is a go to guide for any developer to get to learn and build scalable solutions at hackathons using Azure. The hackathon cheatbook is never finished. It's an ongoing project for the developers that we're always trying to update as we run more and more hackathons. Take a step to contribute to the cheatbook with a pull request over on this GitHub repository for this guide. 
+> Hackathon Cheatbook is a go-to-guide for any developer to get to learn and build scalable solutions at hackathons using Azure. The hackathon cheatbook is never finished. It's an ongoing project for the developers that we're always trying to update as we run more and more hackathons. Take a step to contribute to the cheatbook with a pull request over on this GitHub repository for this guide. 
 ------------------------------------------------------------------------------------------------------------------------------
+
 ### Hacking with Microsoft Azure
 #### What is Azure?
 Microsoft Azure is a flexible, scalable, and full-featured cloud platform. If you can imagine it, you can build it on Azure, using the tools, languages and frameworks you're already familiar with. Python, JavaScript, Java, .NET - you can run them all on Azure.
