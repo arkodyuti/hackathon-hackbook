@@ -10,19 +10,19 @@ Using Azure you can run serverless code using Azure Functions, host web applicat
 
 If you're new to Azure, we have a host of learning options available to you.
 
-#### Getting Started with Azure
+### Getting Started with Azure
 > 1. Claim your Azure Pass: https://aka.ms/HN/passes 
 
   Note: Follow the redemption process guide for reference
 
 > 2. Deep dive through Azure Fundamentals: https://aka.ms/HN/learnaz
 
-#### Explore Azure Services to build a Hack
+### Explore Azure Services to build a Hack
 > docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples
 
 Developer Guide: https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide
 
-##### AI + Machine Learning
+#### AI + Machine Learning
 >The AI Services in Azure bring the best of AI to Azure and the best of Azure to AI.
 It is about bringing the state of the art technology as easy to use cloud services for developers.
 It’s also about taking advantage of the best capabilities that the cloud has to offer, such as hardware and microservice clusters to make AI scalable.
@@ -35,13 +35,13 @@ There are 3 sets of AI services in Azure.
 
 
 
-##### Compute
+#### Compute
 
-##### Containers
+#### Containers
 
-##### Web 
+#### Web 
 
-##### Explore Microsoft Certifications
+### Explore Microsoft Certifications
 > 1. Exam AZ-900: Microsoft Azure Fundamentals
 > 2. Exam AZ-203: Developing Solutions for Microsoft Azure
 
