@@ -1,5 +1,5 @@
 # hackathon-cheatbook
-Hackathon Cheat Sheet
+> Hackathon Cheatbook is a go to guide for any developer to get 
 ### Hacking with Microsoft Azure
 #### What is Azure?
 Microsoft Azure is a flexible, scalable, and full-featured cloud platform. If you can imagine it, you can build it on Azure, using the tools, languages and frameworks you're already familiar with. Python, JavaScript, Java, .NET - you can run them all on Azure.
@@ -24,3 +24,9 @@ If you're new to Azure, we have a host of learning options available to you.
 ##### Containers
 
 ##### Web 
+
+##### Explore Microsoft Certifications
+> 1. Exam AZ-900: Microsoft Azure Fundamentals
+> 2. Exam AZ-203: Developing Solutions for Microsoft Azure
+
+
