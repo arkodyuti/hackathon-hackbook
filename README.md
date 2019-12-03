@@ -30,11 +30,17 @@ It’s also about taking advantage of the best capabilities that the cloud has t
 
 There are 3 sets of AI services in Azure. 
 1. Pre-built AI capabilities, such as Cognitive Service APIs for speech, language understanding, OCR, vision and Search are simple cloud hosted functions.
+
 Sample 1: How to  Translate Speech in realtime on your browser https://aka.ms/HN/AzS2T
+
 Sample 2: How to
+
 2. Conversational AI is now easy with the Azure Bot Service. It allows you to build and deploy chat and conversational applications with ease.
-> Wine-not-build a Bot https://aka.ms/HN/AzBots
-> 
+
+Sample 1: Wine-not-build a Bot https://aka.ms/HN/AzBots
+
+Sample 2: 
+
 3. When you have to build a deeply custom AI model with your own data, Azure Machine Learning provides all you need for cloud scale algorithm and model development.
 > 
 > 
