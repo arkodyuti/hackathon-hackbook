@@ -31,28 +31,47 @@ It’s also about taking advantage of the best capabilities that the cloud has t
 There are 3 sets of AI services in Azure. 
 1. Pre-built AI capabilities, such as Cognitive Service APIs for speech, language understanding, OCR, vision and Search are simple cloud hosted functions.
 
-Sample 1: How to  Translate Speech in realtime on your browser https://aka.ms/HN/AzS2T
-
-Sample 2: How to
-
 2. Conversational AI is now easy with the Azure Bot Service. It allows you to build and deploy chat and conversational applications with ease.
 
-Sample 1: Wine-not-build a Bot https://aka.ms/HN/AzBots
+3. When you have to build a deeply custom AI model with your own data, Azure Machine Learning  (https://aka.ms/HN/AIonAzure) provides all you need for cloud scale algorithm and model development.
 
-Sample 2: 
 
-3. When you have to build a deeply custom AI model with your own data, Azure Machine Learning provides all you need for cloud scale algorithm and model development.
-> 
-> 
+Sample 1: How to  Translate Speech in realtime on your browser https://aka.ms/HN/AzS2T
 
+Sample 2: Wine-not-build a Bot https://aka.ms/HN/AzBots
+ 
+Sample 2: Use Azure Cognitive Services to build a translator app hosted on Azure App Service https://aka.ms/HN/AzAPS
 
 Explore some MS Learn Content on AI & ML: https://aka.ms/HN/AIML 
 
+ 
+
 #### Compute
 
-#### Containers
+Azure App Service - enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Azure DevOps, or any Git repo. Learn how to use Azure App Service with our quickstarts, tutorials, and samples (https://aka.ms/HN/appservice )
 
-#### Web 
+Sample 1:
+
+Sample 2:
+
+Sample 3: 
+
+Azure Kubernetes Service (AKS) - The fully managed Azure Kubernetes Service (AKS) makes deploying and managing containerised applications easy. It offers serverless Kubernetes, an integrated continuous integration and continuous delivery (CI/CD) experience and enterprise-grade security and governance. Unite your development and operations teams on a single platform to rapidly build, deliver and scale applications with confidence. (https://aka.ms/HN/learnk8s)
+
+Sample 1:
+
+Sample 2:
+
+Sample 3: 
+
+#### Database
+Azure Cosmos DB is Microsoft’s globally distributed, multi-model database service for operational and analytics workloads. It offers multi-mastering feature by automatically scaling throughput, compute, and storage.
+( https://docs.microsoft.com/en-us/azure/cosmos-db/ )
+
+Sample 1:
+
+Sample 2:
+
 
 ### Explore Microsoft Certifications
 > 1. Exam AZ-900: Microsoft Azure Fundamentals
