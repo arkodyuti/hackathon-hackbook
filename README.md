@@ -18,7 +18,7 @@ If you're new to Azure, we have a host of learning options available to you.
 2. Deep dive through Azure Fundamentals: https://aka.ms/HN/learnaz
 
 ### Explore Azure Services to build a Hack
-docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples
+docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
 Developer Guide: https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide
 
