@@ -88,4 +88,6 @@ Have a question while hacking on Azure, ask here https://aka.ms/HN/QnA
 > 1. Exam AZ-900: Microsoft Azure Fundamentals https://aka.ms/HN/Az900 🎓
 > 2. Exam AZ-203: Developing Solutions for Microsoft Azure https://aka.ms/HN/Az203 🎓
 
+
+
 # #HackOnAzure 💯
