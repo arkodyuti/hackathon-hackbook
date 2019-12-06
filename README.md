@@ -1,4 +1,4 @@
-# hackathon-cheatbook 💯
+# hackathon-cheatbook 👩‍💻👨‍💻💯
 > Hackathon Cheatbook is a go-to-guide for any developer to get to learn and build scalable solutions at hackathons using Azure. The hackathon cheatbook is never finished. It's an ongoing project for the developers that we're always trying to update as we run more and more hackathons. Take a step to contribute to the cheatbook with a pull request over on this GitHub repository for this guide. 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ If you're new to Azure, we have a host of learning options available to you.
 ### Getting Started with Azure ☁️
 1. Claim your Azure Pass: https://aka.ms/HN/passes 
 
-  Note: Follow the redemption process guide for reference
+👉 Note: Follow the redemption process guide for reference
 
 2. Deep dive through Azure Fundamentals: https://aka.ms/HN/learnaz
 
@@ -36,11 +36,11 @@ There are 3 sets of AI services in Azure.
 3. When you have to build a deeply custom AI model with your own data, Azure Machine Learning  (https://aka.ms/HN/AIonAzure) provides all you need for cloud scale algorithm and model development.
 
 
-Sample 1: How to  Translate Speech in realtime on your browser https://aka.ms/HN/AzS2T
+👉 Sample 1: How to  Translate Speech in realtime on your browser https://aka.ms/HN/AzS2T
 
-Sample 2: Wine-not-build a Bot https://aka.ms/HN/AzBots
+👉 Sample 2: Wine-not-build a Bot https://aka.ms/HN/AzBots
  
-Sample 2: Use Azure Cognitive Services to build a translator app hosted on Azure App Service https://aka.ms/HN/AzAPS
+👉 Sample 3: Use Azure Cognitive Services to build a translator app hosted on Azure App Service https://aka.ms/HN/AzAPS
 
 Explore some MS Learn Content on AI & ML: https://aka.ms/HN/AIML 
 
@@ -50,18 +50,18 @@ Explore some MS Learn Content on AI & ML: https://aka.ms/HN/AIML
 
 Azure App Service - enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Azure DevOps, or any Git repo. Learn how to use Azure App Service with our quickstarts, tutorials, and samples.
 
-Sample 1: https://aka.ms/HN/AZWebApps
+👉 Sample 1: https://aka.ms/HN/AZWebApps
 
-Sample 2: Learn to build a Blog using App Service https://aka.ms/HN/BlogApp
+👉 Sample 2: Learn to build a Blog using App Service https://aka.ms/HN/BlogApp
 
 Learn more about Azure App Service: https://aka.ms/HN/appservice 
 
 
 Azure Kubernetes Service (AKS) - The fully managed Azure Kubernetes Service (AKS) makes deploying and managing containerised applications easy. It offers serverless Kubernetes, an integrated continuous integration and continuous delivery (CI/CD) experience and enterprise-grade security and governance. Unite your development and operations teams on a single platform to rapidly build, deliver and scale applications with confidence. (https://aka.ms/HN/learnk8s)
 
-Sample 1: https://aka.ms/HN/RockPaperScissorsLizardSpock
+👉 Sample 1: https://aka.ms/HN/RockPaperScissorsLizardSpock
 
-Sample 2: https://aka.ms/HN/Learn-K8s
+👉 Sample 2: https://aka.ms/HN/Learn-K8s
 
 Step-wise series to learn Kubernetes: https://aka.ms/HN/K8s-Series
 
@@ -72,7 +72,7 @@ Azure Cosmos DB is Microsoft’s globally distributed, multi-model database serv
 
 Getting Started with Cosmos DB on Azure https://aka.ms/HN/Learn-CosmosDB
 
-Sample 1: Build an Attendee Detector https://aka.ms/HN/AttendeeDetector
+👉 Sample 1: Build an Attendee Detector https://aka.ms/HN/AttendeeDetector
 
 Explore Cosmos DB with Serverless: https://aka.ms/HN/CosmosDB-Serverless
 
