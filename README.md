@@ -48,33 +48,35 @@ Explore some MS Learn Content on AI & ML: https://aka.ms/HN/AIML
 
 #### Compute
 
-Azure App Service - enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Azure DevOps, or any Git repo. Learn how to use Azure App Service with our quickstarts, tutorials, and samples (https://aka.ms/HN/appservice )
+Azure App Service - enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Azure DevOps, or any Git repo. Learn how to use Azure App Service with our quickstarts, tutorials, and samples.
 
-Sample 1:
+Sample 1: https://aka.ms/HN/AZWebApps
 
-Sample 2:
+Sample 2: Learn to build a Blog using App Service https://aka.ms/HN/BlogApp
 
-Sample 3: 
+Learn more about Azure App Service: https://aka.ms/HN/appservice 
+
 
 Azure Kubernetes Service (AKS) - The fully managed Azure Kubernetes Service (AKS) makes deploying and managing containerised applications easy. It offers serverless Kubernetes, an integrated continuous integration and continuous delivery (CI/CD) experience and enterprise-grade security and governance. Unite your development and operations teams on a single platform to rapidly build, deliver and scale applications with confidence. (https://aka.ms/HN/learnk8s)
 
-Sample 1:
+Sample 1: https://aka.ms/HN/RockPaperScissorsLizardSpock
 
-Sample 2:
+Sample 2: https://aka.ms/HN/Learn-K8s
 
-Sample 3: 
+Step-wise series to learn Kubernetes: https://aka.ms/HN/K8s-Series
+
 
 #### Database
 Azure Cosmos DB is Microsoft’s globally distributed, multi-model database service for operational and analytics workloads. It offers multi-mastering feature by automatically scaling throughput, compute, and storage.
 ( https://docs.microsoft.com/en-us/azure/cosmos-db/ )
 
-Sample 1:
+Sample 1: Build an Attendee Detector https://aka.ms/HN/AttendeeDetector
 
 Sample 2:
 
 
 ### Explore Microsoft Certifications
-> 1. Exam AZ-900: Microsoft Azure Fundamentals
+> 1. Exam AZ-900: Microsoft Azure Fundamentals 
 > 2. Exam AZ-203: Developing Solutions for Microsoft Azure
 
 
