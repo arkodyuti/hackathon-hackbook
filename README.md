@@ -1,8 +1,8 @@
-# hackathon-cheatbook
+# hackathon-cheatbook 💯
 > Hackathon Cheatbook is a go-to-guide for any developer to get to learn and build scalable solutions at hackathons using Azure. The hackathon cheatbook is never finished. It's an ongoing project for the developers that we're always trying to update as we run more and more hackathons. Take a step to contribute to the cheatbook with a pull request over on this GitHub repository for this guide. 
 ------------------------------------------------------------------------------------------------------------------------------
 
-### Hacking with Microsoft Azure
+### Hacking with Microsoft Azure ☁️
 #### What is Azure?
 Microsoft Azure is a flexible, scalable, and full-featured cloud platform. If you can imagine it, you can build it on Azure, using the tools, languages and frameworks you're already familiar with. Python, JavaScript, Java, .NET - you can run them all on Azure.
 
@@ -10,19 +10,19 @@ Using Azure you can run serverless code using Azure Functions, host web applicat
 
 If you're new to Azure, we have a host of learning options available to you.
 
-### Getting Started with Azure
+### Getting Started with Azure ☁️
 1. Claim your Azure Pass: https://aka.ms/HN/passes 
 
   Note: Follow the redemption process guide for reference
 
 2. Deep dive through Azure Fundamentals: https://aka.ms/HN/learnaz
 
-### Explore Azure Services to build a Hack
+### Explore Azure Services to build a Hack 📑
 docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
 Developer Guide: https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide
 
-#### AI + Machine Learning
+#### AI + Machine Learning ⌛
 The AI Services in Azure bring the best of AI to Azure and the best of Azure to AI.
 It is about bringing the state of the art technology as easy to use cloud services for developers.
 It’s also about taking advantage of the best capabilities that the cloud has to offer, such as hardware and microservice clusters to make AI scalable.
@@ -46,7 +46,7 @@ Explore some MS Learn Content on AI & ML: https://aka.ms/HN/AIML
 
  
 
-#### Compute
+#### Compute 💻
 
 Azure App Service - enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Azure DevOps, or any Git repo. Learn how to use Azure App Service with our quickstarts, tutorials, and samples.
 
@@ -66,7 +66,7 @@ Sample 2: https://aka.ms/HN/Learn-K8s
 Step-wise series to learn Kubernetes: https://aka.ms/HN/K8s-Series
 
 
-#### Database
+#### Database 💾
 Azure Cosmos DB is Microsoft’s globally distributed, multi-model database service for operational and analytics workloads. It offers multi-mastering feature by automatically scaling throughput, compute, and storage.
 ( https://docs.microsoft.com/en-us/azure/cosmos-db/ )
 
@@ -76,15 +76,15 @@ Sample 1: Build an Attendee Detector https://aka.ms/HN/AttendeeDetector
 
 Explore Cosmos DB with Serverless: https://aka.ms/HN/CosmosDB-Serverless
 
-### Microsoft Docs
+### Microsoft Docs 📄
 https://docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
 
-### Ask the developer 
+### Ask the developer 😎
 Have a question while hacking on Azure, ask here https://aka.ms/HN/QnA
 
 
-### Explore Microsoft Certifications
+### Explore Microsoft Certifications 💯
 > 1. Exam AZ-900: Microsoft Azure Fundamentals https://aka.ms/HN/Az900
 > 2. Exam AZ-203: Developing Solutions for Microsoft Azure https://aka.ms/HN/Az203 
 
