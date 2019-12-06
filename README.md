@@ -1,4 +1,4 @@
-# hackathon-cheatbook 👩‍💻👨‍💻💯
+# hackathon-cheatbook 👩‍💻👨‍💻
 > Hackathon Cheatbook is a go-to-guide for any developer to get to learn and build scalable solutions at hackathons using Azure. The hackathon cheatbook is never finished. It's an ongoing project for the developers that we're always trying to update as we run more and more hackathons. Take a step to contribute to the cheatbook with a pull request over on this GitHub repository for this guide. 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ Have a question while hacking on Azure, ask here https://aka.ms/HN/QnA
 
 
 ### Explore Microsoft Certifications 💯
-> 1. Exam AZ-900: Microsoft Azure Fundamentals https://aka.ms/HN/Az900
-> 2. Exam AZ-203: Developing Solutions for Microsoft Azure https://aka.ms/HN/Az203 
+> 1. Exam AZ-900: Microsoft Azure Fundamentals https://aka.ms/HN/Az900 🎓
+> 2. Exam AZ-203: Developing Solutions for Microsoft Azure https://aka.ms/HN/Az203 🎓
 
-
+# #HackOnAzure 💯
