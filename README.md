@@ -76,6 +76,9 @@ Sample 1: Build an Attendee Detector https://aka.ms/HN/AttendeeDetector
 
 Explore Cosmos DB with Serverless: https://aka.ms/HN/CosmosDB-Serverless
 
+### Explore other products and services on https://docs.microsoft.com/
+
+
 ### Ask the developer 
 Have a question while hacking on Azure, ask here https://aka.ms/HN/QnA
 
