@@ -76,7 +76,8 @@ Sample 1: Build an Attendee Detector https://aka.ms/HN/AttendeeDetector
 
 Explore Cosmos DB with Serverless: https://aka.ms/HN/CosmosDB-Serverless
 
-### Explore other products and services on https://docs.microsoft.com/
+### Microsoft Docs
+https://docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
 
 ### Ask the developer 
