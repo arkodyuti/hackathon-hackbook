@@ -70,13 +70,18 @@ Step-wise series to learn Kubernetes: https://aka.ms/HN/K8s-Series
 Azure Cosmos DB is Microsoft’s globally distributed, multi-model database service for operational and analytics workloads. It offers multi-mastering feature by automatically scaling throughput, compute, and storage.
 ( https://docs.microsoft.com/en-us/azure/cosmos-db/ )
 
+Getting Started with Cosmos DB on Azure https://aka.ms/HN/Learn-CosmosDB
+
 Sample 1: Build an Attendee Detector https://aka.ms/HN/AttendeeDetector
 
-Sample 2:
+Explore Cosmos DB with Serverless: https://aka.ms/HN/CosmosDB-Serverless
+
+### Ask the developer 
+Have a question while hacking on Azure, ask here https://aka.ms/HN/QnA
 
 
 ### Explore Microsoft Certifications
-> 1. Exam AZ-900: Microsoft Azure Fundamentals 
-> 2. Exam AZ-203: Developing Solutions for Microsoft Azure
+> 1. Exam AZ-900: Microsoft Azure Fundamentals https://aka.ms/HN/Az900
+> 2. Exam AZ-203: Developing Solutions for Microsoft Azure https://aka.ms/HN/Az203 
 
 
