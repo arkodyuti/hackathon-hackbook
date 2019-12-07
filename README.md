@@ -81,13 +81,19 @@ Getting Started with Cosmos DB on Azure https://aka.ms/HN/Learn-CosmosDB
 Explore Cosmos DB with Serverless: https://aka.ms/HN/CosmosDB-Serverless
 
 
+### Explore our Code Samples https://aka.ms/HackOnAzure 🎛
+
 ### Microsoft Docs 📄
 https://docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
+
 
 
 ### Ask the developer 😎
 Have a question while hacking on Azure, ask here https://aka.ms/HN/QnA
 
+
+### Sign-up for the Microsoft.Source Newsletter 📑
+Receive a regular digest of relevant technical content, events and training https://aka.ms/HN/microsoft.source 
 
 ### Explore Microsoft Certifications 💯
 > 1. Exam AZ-900: Microsoft Azure Fundamentals https://aka.ms/HN/Az900 🎓
