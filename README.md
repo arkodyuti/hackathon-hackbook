@@ -1,5 +1,5 @@
 # hackathon-cheatbook 👩‍💻👨‍💻
-> Hackathon Cheatbook is a go-to-guide for any developer to get to learn and build scalable solutions at hackathons using Azure. The hackathon cheatbook is never finished. It's an ongoing project for the developers that we're always trying to update as we run more and more hackathons. Take a step to contribute to the cheatbook with a pull request over on this GitHub repository for this guide. 
+> Hackathon Cheatbook is a go-to-guide for any developer to get to learn and build scalable solutions at hackathons on Azure. The hackathon cheatbook is never finished. It's an ongoing project for the developers that we're always trying to update as we run more and more hackathons. Take a step to contribute to the cheatbook with a pull request over on this GitHub repository for this guide. 
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### Hacking with Microsoft Azure ☁️
@@ -83,9 +83,9 @@ Explore Cosmos DB with Serverless: https://aka.ms/HN/CosmosDB-Serverless
 
 ### Explore our Code Samples https://aka.ms/HackOnAzure 🎛
 
+
 ### Microsoft Docs 📄
 https://docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
-
 
 
 ### Ask the developer 😎
