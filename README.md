@@ -42,6 +42,10 @@ There are 3 sets of AI services in Azure.
  
 👉 Sample 3: Use Azure Cognitive Services to build a translator app hosted on Azure App Service https://aka.ms/HN/AzAPS
 
+🖥️ Tutorial: Introduction to Machine Learning https://aka.ms/HN/ml 
+
+🐍 Azure for Python Developers: https://aka.ms/PyonAzure 
+
 Explore some MS Learn Content on AI & ML: https://aka.ms/HN/AIML 
 
  
