@@ -80,6 +80,7 @@ Getting Started with Cosmos DB on Azure https://aka.ms/HN/Learn-CosmosDB
 
 Explore Cosmos DB with Serverless: https://aka.ms/HN/CosmosDB-Serverless
 
+
 ### Microsoft Docs 📄
 https://docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
