@@ -1,4 +1,4 @@
-# hackathon-cheatbook 👩‍💻👨‍💻
+# hackathon-hackbook 👩‍💻👨‍💻
 > Hackathon Cheatbook is a go-to-guide for any developer to get to learn and build scalable solutions at hackathons on Azure. The hackathon cheatbook is never finished. It's an ongoing project for the developers that we're always trying to update as we run more and more hackathons. Take a step to contribute to the cheatbook with a pull request over on this GitHub repository for this guide. 
 ------------------------------------------------------------------------------------------------------------------------------
 
