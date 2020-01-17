@@ -41,9 +41,9 @@ There are 3 sets of AI services in Azure.
 
 > 👉 Sample 1: How to Translate Speech in realtime on your browser [aka.ms/HN/AzS2T](https://aka.ms/HN/AzS2T)
 
-> 👉 Sample 2: Wine-not-build a Bot [aka.ms/HN/AzBots](https://aka.ms/HN/AzS2T)
+> 👉 Sample 2: Wine-not-build a Bot [aka.ms/HN/AzBots](aka.ms/HN/AzBots)
  
-> 👉 Sample 3: Use Azure Cognitive Services to build a translator app hosted on Azure App Service [aka.ms/HN/AzAPS](https://aka.ms/HN/AzS2T)
+> 👉 Sample 3: Use Azure Cognitive Services to build a translator app hosted on Azure App Service [aka.ms/HN/AzAPS](aka.ms/HN/AzAPS)
 
 > 🖥️ Tutorial: Introduction to Machine Learning [aka.ms/HN/ml](https://aka.ms/HN/ml) 
 
