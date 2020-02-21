@@ -13,9 +13,7 @@ Using Azure you can run serverless code using Azure Functions, host web applicat
 **If you're new to Azure, we have a host of learning options available to you.**
 
 ### Getting Started with Azure ☁️
-1. Claim your **Azure Pass** [aka.ms/HN/passes]()
-
-[aka.ms/HN/passes](https://aka.ms/HN/passes) 
+1. Claim your **Azure Pass** [aka.ms/HN/passes](https://aka.ms/HN/passes) 
 
 > 👉 Note: Follow the redemption process guide for reference
 
@@ -24,7 +22,7 @@ Using Azure you can run serverless code using Azure Functions, host web applicat
 ### Explore Azure Services to build a Hack 📑
 [docs.microsoft.com](https://docs.microsoft.com) is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
-**Developer Guide: [docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide](https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide)**
+**Developer Guide: [https://docs.microsoft.com/?WT.mc_id=-github-arsaha](https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide)**
 
 ### AI + Machine Learning ⌛
 
