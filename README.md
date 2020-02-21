@@ -93,7 +93,7 @@ The fully managed Azure Kubernetes Service (AKS) makes deploying and managing co
 >
 > 👉 Check out other Azure Services [here](https://docs.microsoft.com/azure/?WT.mc_id=-github-arsaha#pivot=products)**
 
-## Explore our [Code Samples](https://aka.ms/HackOnAzure) 🎛
+## Explore Azure [Code Samples](https://aka.ms/HackOnAzure) 🎛
 
 
 ## Microsoft Docs 📄
