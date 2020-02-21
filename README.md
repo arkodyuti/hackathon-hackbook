@@ -24,7 +24,7 @@ Using Azure you can run serverless code using Azure Functions, host web applicat
 
 **Developer Guide: [https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide](https://docs.microsoft.com/azure/guides/developer/azure-developer-guide?WT.mc_id=-github-arsaha)**
 
-### AI + Machine Learning ⌛
+### AI + Machine Learning ⌛ 
 
 The AI Services in Azure bring the *best of AI to Azure* and the *best of Azure to AI*.
 It is about bringing the state of the art technology as easy to use cloud services for developers.
