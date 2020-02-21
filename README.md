@@ -72,26 +72,28 @@ Azure App Service enables you to build and host web apps, mobile back ends, and 
 The fully managed Azure Kubernetes Service (AKS) makes deploying and managing containerised applications easy. It offers serverless Kubernetes, an integrated continuous integration and continuous delivery (CI/CD) experience and enterprise-grade security and governance. Unite your development and operations teams on a single platform to rapidly build, deliver and scale applications with confidence. 
 **[aka.ms/HN/learnk8s](https://aka.ms/HN/learnk8s)**
 
-> 👉 Sample 1: [aka.ms/HN/RockPaperScissorsLizardSpock](https://aka.ms/HN/RockPaperScissorsLizardSpock)
+> 👉 Sample 1: [Deploying .NET Web Apps to Azure](https://aka.ms/HN/RockPaperScissorsLizardSpock)
 
-> 👉 Sample 2: [aka.ms/HN/Learn-K8s](https://aka.ms/HN/Learn-K8s)
+> 👉 Sample 2: [Azure Kubernetes Service - A Beginner's Guide.](https://aka.ms/HN/Learn-K8s)
 
-> Step-wise series to learn Kubernetes: [aka.ms/HN/K8s-Series](https://aka.ms/HN/K8s-Series)
+> [Step-wise series to learn Kubernetes](https://aka.ms/HN/K8s-Series)
 
 
 ### Database 💾
 
 **Azure Cosmos DB** is Microsoft’s globally distributed, multi-model database service for operational and analytics workloads. It offers multi-mastering feature by automatically scaling throughput, compute, and storage.
-**[Cosmod DB - Docs](https://docs.microsoft.com/en-us/azure/cosmos-db/)**
+**[Cosmod DB - Docs](https://docs.microsoft.com/azure/cosmos-db/?WT.mc_id=-github-arsaha)**
 
-> Getting Started with Cosmos DB on Azure [aka.ms/HN/Learn-CosmosDB](https://aka.ms/HN/Learn-CosmosDB)
+> [Getting Started with Cosmos DB on Azure](https://aka.ms/HN/Learn-CosmosDB)
 
-> 👉 Sample 1: Build an Attendee Detector [aka.ms/HN/AttendeeDetector](https://aka.ms/HN/AttendeeDetector)
+> 👉 Sample 1: [Build an Attendee Detector](https://aka.ms/HN/AttendeeDetector)
 
-> Explore Cosmos DB with Serverless: [aka.ms/HN/CosmosDB-Serverless](https://aka.ms/HN/CosmosDB-Serverless)
+> [Explore Cosmos DB with Serverless](https://aka.ms/HN/CosmosDB-Serverless)
 
+>
+> 👉 Check out other Azure Services [here](https://docs.microsoft.com/azure/?WT.mc_id=-github-arsaha#pivot=products)**
 
-## Explore our Code Samples - [aka.ms/HackOnAzure](https://aka.ms/HackOnAzure) 🎛
+## Explore our [Code Samples](https://aka.ms/HackOnAzure) 🎛
 
 
 ## Microsoft Docs 📄
