@@ -13,7 +13,9 @@ Using Azure you can run serverless code using Azure Functions, host web applicat
 **If you're new to Azure, we have a host of learning options available to you.**
 
 ### Getting Started with Azure ☁️
-1. Claim your **Azure Pass**: [aka.ms/HN/passes](https://aka.ms/HN/passes) 
+1. Claim your **Azure Pass** [aka.ms/HN/passes]()
+
+[aka.ms/HN/passes](https://aka.ms/HN/passes) 
 
 > 👉 Note: Follow the redemption process guide for reference
 
