@@ -88,7 +88,7 @@ The fully managed Azure Kubernetes Service (AKS) makes deploying and managing co
 
 > 👉 Sample 1: [Build an Attendee Detector](https://aka.ms/HN/AttendeeDetector)
 
-> [Explore Cosmos DB with Serverless](https://aka.ms/HN/CosmosDB-Serverless)
+> 👉 [Explore Cosmos DB with Serverless](https://aka.ms/HN/CosmosDB-Serverless)
 
 >
 > 👉 Check out other Azure Services [here](https://docs.microsoft.com/azure/?WT.mc_id=-github-arsaha#pivot=products)**
@@ -99,9 +99,11 @@ The fully managed Azure Kubernetes Service (AKS) makes deploying and managing co
 ## Microsoft Docs 📄
 [docs.microsoft.com](https://docs.microsoft.com/?WT.mc_id=-github-arsaha) is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
-
 ## Ask the developer 😎
 Have a question while hacking on Azure, ask here [aka.ms/HN/QnA](https://aka.ms/HN/QnA)
+
+## AWS to Azure services comparison ☁️☁️
+This section will help you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning a multicloud solution with Azure and AWS, or migrating to Azure, you can compare the IT capabilities of Azure and AWS services in all categories. Learn more [here](https://aka.ms/HN/aws-azure-comparison)
 
 
 ## Sign-up for the Microsoft.Source Newsletter 📑
