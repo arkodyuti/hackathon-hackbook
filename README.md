@@ -24,6 +24,8 @@ Using Azure you can run serverless code using Azure Functions, host web applicat
 
 **Developer Guide: [https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide](https://docs.microsoft.com/azure/guides/developer/azure-developer-guide?WT.mc_id=-github-arsaha)**
 
+**Explore Azure Services [here](https://docs.microsoft.com/azure/?WT.mc_id=-github-arsaha#pivot=products)**
+
 ### AI + Machine Learning ⌛ 
 
 The AI Services in Azure bring the *best of AI to Azure* and the *best of Azure to AI*.
@@ -39,17 +41,17 @@ There are 3 sets of AI services in Azure.
 3. When you have to build a deeply custom AI model with your own data, **[Azure Machine Learning - aka.ms/HN/AIonAzure](https://aka.ms/HN/AIonAzure)** provides all you need for cloud scale algorithm and model development.
 
 
-> 👉 Sample 1: How to Translate Speech in realtime on your browser [aka.ms/HN/AzS2T](https://aka.ms/HN/AzS2T)
+> 👉 Sample 1: [How to Translate Speech in realtime on your browser](https://aka.ms/HN/AzS2T)
 
-> 👉 Sample 2: Wine-not-build a Bot [aka.ms/HN/AzBots](https://aka.ms/HN/AzBots)
+> 👉 Sample 2: [Wine-not-build a Bot](https://aka.ms/HN/AzBots)
  
-> 👉 Sample 3: Use Azure Cognitive Services to build a translator app hosted on Azure App Service [aka.ms/HN/AzAPS](https://aka.ms/HN/AzAPS)
+> 👉 Sample 3: [Use Azure Cognitive Services to build a translator app hosted on Azure App Service](https://aka.ms/HN/AzAPS)
 
-> 🖥️ Tutorial: Introduction to Machine Learning [aka.ms/HN/ml](https://aka.ms/HN/ml) 
+> 🖥️ Tutorial: [Introduction to Machine Learning](https://aka.ms/HN/ml) 
 
-> 🐍 Azure for Python Developers: [aka.ms/PyonAzure](https://aka.ms/PyonAzure) 
+> 🐍 [Azure for Python Developers](https://aka.ms/PyonAzure) 
 
-> Explore some MS Learn Content on AI & ML: [aka.ms/HN/AIML](https://aka.ms/HN/AIML) 
+> [Explore some MS Learn Content on AI & ML](https://aka.ms/HN/AIML) 
 
  
 
