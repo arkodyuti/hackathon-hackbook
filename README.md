@@ -110,8 +110,8 @@ This section will help you understand how Microsoft Azure services compare to Am
 Receive a regular digest of relevant technical content, events and training [aka.ms/HN/microsoft.source](https://aka.ms/HN/microsoft.source) 
 
 ## Explore Microsoft Certifications 💯
-> 1. Exam AZ-900: Microsoft Azure Fundamentals [aka.ms/HN/Az900](https://aka.ms/HN/Az900) 🎓
-> 2. Exam AZ-203: Developing Solutions for Microsoft Azure [aka.ms/HN/Az203](https://aka.ms/HN/Az203) 🎓
+> 1. [Exam AZ-900: Microsoft Azure Fundamentals](https://aka.ms/HN/Az900) 🎓
+> 2. [Exam AZ-203: Developing Solutions for Microsoft Azure](https://aka.ms/HN/Az203) 🎓
 
 
 
