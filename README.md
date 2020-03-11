@@ -22,7 +22,7 @@ Using Azure you can run serverless code using Azure Functions, host web applicat
 ### Explore Azure Services to build a Hack 📑
 [https://docs.microsoft.com](https://docs.microsoft.com/?WT.mc_id=-github-arsaha) is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
-**Developer Guide: [https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide](https://docs.microsoft.com/azure/guides/developer/azure-developer-guide?WT.mc_id=-github-arsaha)**
+**Developer Guide: [https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide](https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide?wt.mc_id=AID2419141_QSG_EML_409353)**
 
 **Explore Azure Services [here](https://docs.microsoft.com/en-us/azure/?WT.mc_id=-github-arsaha&wt.mc_id=AID2419141_QSG_EML_409349)**
 
