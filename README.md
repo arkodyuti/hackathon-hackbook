@@ -24,7 +24,7 @@ Using Azure you can run serverless code using Azure Functions, host web applicat
 
 **Developer Guide: [https://docs.microsoft.com/en-us/azure/guides/developer/azure-developer-guide](https://docs.microsoft.com/azure/guides/developer/azure-developer-guide?WT.mc_id=-github-arsaha)**
 
-**Explore Azure Services [here](https://docs.microsoft.com/azure/?WT.mc_id=-github-arsaha#pivot=products)**
+**Explore Azure Services [here](https://docs.microsoft.com/en-us/azure/?WT.mc_id=-github-arsaha&wt.mc_id=AID2419141_QSG_EML_409349)**
 
 ### AI + Machine Learning ⌛ 
 
@@ -82,7 +82,7 @@ The fully managed Azure Kubernetes Service (AKS) makes deploying and managing co
 ### Database 💾
 
 **Azure Cosmos DB** is Microsoft’s globally distributed, multi-model database service for operational and analytics workloads. It offers multi-mastering feature by automatically scaling throughput, compute, and storage.
-**[Cosmod DB - Docs](https://docs.microsoft.com/azure/cosmos-db/?WT.mc_id=-github-arsaha)**
+**[Cosmod DB - Docs](https://docs.microsoft.com/en-us/azure/cosmos-db/?WT.mc_id=-github-arsaha&wt.mc_id=AID2419141_QSG_EML_)**
 
 > [Getting Started with Cosmos DB on Azure](https://aka.ms/HN/Learn-CosmosDB)
 
@@ -91,7 +91,7 @@ The fully managed Azure Kubernetes Service (AKS) makes deploying and managing co
 > 👉 [Explore Cosmos DB with Serverless](https://aka.ms/HN/CosmosDB-Serverless)
 
 >
-> 👉 Check out other Azure Services [here](https://docs.microsoft.com/azure/?WT.mc_id=-github-arsaha#pivot=products)**
+> 👉 Check out other Azure Services [here](https://docs.microsoft.com/en-us/azure/?WT.mc_id=-github-arsaha&wt.mc_id=AID2419141_QSG_EML_409356)**
 
 ## Explore Azure [Code Samples](https://aka.ms/HackOnAzure) 🎛
 
@@ -110,8 +110,8 @@ This section will help you understand how Microsoft Azure services compare to Am
 Receive a regular digest of relevant technical content, events and training [aka.ms/HN/microsoft.source](https://aka.ms/HN/microsoft.source) 
 
 ## Explore Microsoft Certifications 💯
-> 1. [Exam AZ-900: Microsoft Azure Fundamentals](https://aka.ms/HN/Az900) 🎓
-> 2. [Exam AZ-203: Developing Solutions for Microsoft Azure](https://aka.ms/HN/Az203) 🎓
+> 1. [Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900?wt.mc_id=learningredirect_certs-web-wwl&WT.mc_id=-github-arsaha&wt.mc_id=AID2419141_QSG_EML_409351) 🎓
+> 2. [Exam AZ-203: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/en-us/learn/certifications/exams/az-203?WT.mc_id=-github-arsaha&wt.mc_id=AID2419141_QSG_EML_409358) 🎓
 
 
 
