@@ -99,14 +99,14 @@ The fully managed Azure Kubernetes Service (AKS) makes deploying and managing co
 [docs.microsoft.com](https://docs.microsoft.com/?WT.mc_id=-github-arsaha) is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 
 ## Ask the developer 😎
-Have a question while hacking on Azure, ask here [aka.ms/HN/QnA](https://aka.ms/HN/QnA)
+Have a question while hacking on Azure, ask [here](https://aka.ms/HN/QnA)
 
 ## AWS to Azure services comparison ☁️☁️
 This section will help you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning a multicloud solution with Azure and AWS, or migrating to Azure, you can compare the IT capabilities of Azure and AWS services in all categories. Learn more [here](https://aka.ms/HN/aws-azure-comparison)
 
 
 ## Sign-up for the Microsoft.Source Newsletter 📑
-Receive a regular digest of relevant technical content, events and training [aka.ms/HN/microsoft.source](https://aka.ms/HN/microsoft.source) 
+Receive a regular digest of relevant technical content, events and training [here](aka.ms/HN/microsoft.source) 
 
 ## Explore Microsoft Certifications 💯
 > 1. [Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900?wt.mc_id=learningredirect_certs-web-wwl&WT.mc_id=-github-arsaha&wt.mc_id=AID2419141_QSG_EML_409351) 🎓
